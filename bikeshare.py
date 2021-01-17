@@ -1,3 +1,5 @@
+# Programming for Data Science with Python Nanodegree Program (module 2 Introduction to Python)
+# Python code to import US bike share data and answer interesting questions about it
 import time
 import pandas as pd
 import numpy as np
