@@ -2,6 +2,8 @@
 # Python code to import US bike share data and answer interesting questions about it
 # Author: Sel Pasos
 # 8th January 2021 
+# 13th Jan 2021 Updated to correct initial errors
+
 import time
 import pandas as pd
 import numpy as np

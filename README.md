@@ -18,3 +18,7 @@ https://github.com/udacity/pdsnd_github.git
 Bikeshare.py created by Sel Pasos
 Course material used to create this and the bike share project from:
 Udacity Programming for Data Science with Python
+
+### License
+Opensource
+
