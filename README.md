@@ -5,7 +5,7 @@
 Introduction to Version Control Project
 
 ### Description
-Describe what your project is about and what it does
+This project was created to test the concepts of version control learned with Git and GitHub
 
 ### Files used
 Include the files used
